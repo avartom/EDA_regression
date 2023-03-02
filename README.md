@@ -1,4 +1,4 @@
-# EDA_regression
+# EDA Regression
 Objectives:
 Buying a house is a stressful process. We want to use machine learning to provide additional information. In this notebook, we want to build a model to predict the prices of residential homes in Ames, Iowa. This model will provide buyers with a rough estimate of what the houses are actually worth.
 
